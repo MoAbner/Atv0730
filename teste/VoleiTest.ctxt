@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=VoleiTest
+comment1.params=
+comment1.target=void\ testPontuacao()
+comment2.params=
+comment2.target=void\ testVencedor()
+comment3.params=
+comment3.target=void\ testVencedorCom25Pontos()
+comment4.params=
+comment4.target=void\ testJogoEmAndamento()
+comment5.params=
+comment5.target=void\ testVerificarBola()
+numComments=6
